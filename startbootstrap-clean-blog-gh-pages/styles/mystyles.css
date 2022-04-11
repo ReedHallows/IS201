@@ -1,0 +1,54 @@
+/*Reed Hallows 4/11/2022*/
+.anchor {
+    text-align: center;
+    font-size: small;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.subpar {
+    font-style: italic;
+    color: white;
+}
+
+.extratext{
+    font-style: italic;
+}
+
+.center{
+    text-align: center;
+}
+
+.leftmenu {
+    top: 300px;
+    left: 5px;
+    width: 300px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    z-index: 1;
+    float: left;
+}
+.rightmenu{
+    top: 300px;
+    right: 5px;
+    width: 300px;
+    padding-bottom: 20px;
+    z-index: 2;
+    float: right;
+}
+
+.imagecenter{
+    top: 300px;
+    width: 300px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    z-index: 1;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.layer {
+    z-index: 1;
+}
